@@ -1,5 +1,5 @@
 <script setup>
-import elementResizeDetectorMaker from 'element-resize-detector';
+import * as elementResizeDetectorMaker from 'element-resize-detector';
 import mitt from 'mitt';
 import {
   onBeforeMount,
